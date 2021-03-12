@@ -1,4 +1,6 @@
-Code to run the bayesian epiallele detection (BED) pipeline. 
+NOTE: this is a beta version and not under active development.
+
+Code to run the bayesian epiallele detection (BED) pipeline.
 
 ## Step 1: convert to sam file
 
